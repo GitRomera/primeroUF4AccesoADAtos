@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<questionario cantidadDePreguntas="5" respuestasTotales="15">
+  <pregunta grupo="1" frase="Que es la vida?">
+    <respuestas cantidad="3">
+      <respuesta id_pregunta = "1" respuestaJugador = "Un regalo" puntos="5"/>
+      <respuesta id_pregunta = "2" respuestaJugador = "Sufrimiento" puntos="0"/>
+      <respuesta id_pregunta = "3" respuestaJugador = "Esta pregunta no tiene sentido" puntos="10"/>
+    </respuestas>
+  </pregunta>
+  <pregunta grupo="2" frase="Cual es su significado?">
+    <respuestas cantidad="3">
+      <respuesta id_pregunta = "1" respuestaJugador = "No lo se" puntos="10"/>
+      <respuesta id_pregunta = "2" respuestaJugador = "Compartir" puntos="5"/>
+      <respuesta id_pregunta = "3" respuestaJugador = "No quiero seguir con este tipo de preguntas..." puntos="0"/>
+    </respuestas>
+  </pregunta>
+  <pregunta grupo="3" frase="Porque tenemos tantas horas de FOL en este ciclo?">
+    <respuestas cantidad="3">
+      <respuesta id_pregunta = "1" respuestaJugador = "Para poder jugar al maincra" puntos="10"/>
+      <respuesta id_pregunta = "2" respuestaJugador = "Para avanzar faena" puntos="5"/>
+      <respuesta id_pregunta = "3" respuestaJugador = "Porque es una materia importante" puntos="0"/>
+    </respuestas>
+  </pregunta>
+  <pregunta grupo="4" frase="Crees que hemos tenido problemas con esta UF4?">
+    <respuestas cantidad="3">
+      <respuesta id_pregunta = "1" respuestaJugador = "Claro, si sois unos mancos" puntos="10"/>
+      <respuesta id_pregunta = "2" respuestaJugador = "No lo se" puntos="5"/>
+      <respuesta id_pregunta = "3" respuestaJugador = "No, os considero programadores capacitados!" puntos="0"/>
+    </respuestas>
+  </pregunta>
+  <pregunta grupo="5" frase="Aprovaremos este reto?">
+    <respuestas cantidad="3">
+      <respuesta id_pregunta = "1" respuestaJugador = "Sigue soñando chaval" puntos="0"/>
+      <respuesta id_pregunta = "2" respuestaJugador = "Si, pero justito" puntos="5"/>
+      <respuesta id_pregunta = "3" respuestaJugador = "Sacareis un 10!" puntos="15"/>
+    </respuestas>
+  </pregunta>
+</questionario>
